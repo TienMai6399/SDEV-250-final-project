@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"cmath": "cpp",
+			"ostream": "cpp",
+			"iomanip": "cpp",
+			"compare": "cpp",
+			"memory": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"xmemory": "cpp",
+			"xstring": "cpp",
+			"xtr1common": "cpp",
+			"xutility": "cpp",
+			"string": "cpp",
+			"istream": "cpp",
+			"cstdlib": "cpp",
+			"system_error": "cpp",
+			"xlocmon": "cpp",
+			"xlocnum": "cpp",
+			"xloctime": "cpp",
+			"iosfwd": "cpp",
+			"fstream": "cpp",
+			"xlocale": "cpp",
+			"list": "cpp"
+		}
+	}
+}
